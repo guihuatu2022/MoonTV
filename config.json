@@ -84,6 +84,45 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "adult1": {
+    "api": "https://www.yyzywcj.com/api.php/provide/vod",
+    "name": "成人资源1",
+    "detail": "https://www.yyzywcj.com"},
+"adult3": {
+    "api": "https://ckzy.me/api.php/provide/vod",
+    "name": "成人资源3",
+    "detail": "https://ckzy.me"
+    },
+"hongniu": {
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "name": "红牛资源",
+    "detail": "https://www.hongniuzy2.com"
+    },
+"lianzi": {
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "name": "量子资源",
+    "detail": "https://cj.lziapi.com"
+    },
+"wolong": {
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+    "name": "卧龙资源",
+    "detail": "https://wolongzyw.com"
+    },
+    "aidan": {
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "name": "艾旦影视",
+      "detail": "https://lovedan.net"
+    },
+    "adult18": {
+      "api": "http://apilj.com/api.php/provide/vod",
+      "name": "成人资源18",
+      "detail": "http://apilj.com"
+    },
+        "iKun资源": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源",
+      "detail": "https://ikunzyapi.com"
     }
   }
 }
